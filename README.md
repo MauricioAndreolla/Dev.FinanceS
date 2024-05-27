@@ -2,7 +2,7 @@
 
 ## 📄 Sobre o Projeto
 
-Aplicativo criado para praticar desenvolvimento web.
+**Aplicativo criado para praticar desenvolvimento web.**
 
 A ideia é criar um App em que utiliza o armazenamento do navegador para cadastrar entradas e saidas de valores na conta bancária.
 
