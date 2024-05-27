@@ -79,14 +79,13 @@
 
     </main>
 
-
     <div class="modal-overlay">
 
         <div class="modal">
             <div id="form">
 
                 <h2>Nova Transação</h2>
-                <form action="" onsubmit="Form.submit(event)">
+                <form>
                     <div class="input-group">
                         <label for="description" class="sr-only">Descrição</label>
                         <input type="text" id="description" name="description" placeholder="Descrição">
@@ -107,7 +106,7 @@
 
                     <div class="input-group actions">
                         <a href="#" class="button cancel" onclick="Modal.close()">Cancelar</a>
-                        <button type="submit"> Salvar</button>
+                        <button onclick="Form.submit(event)"> Salvar</button>
                     </div>
 
                 </form>
@@ -124,7 +123,7 @@
         <p> Dev.Finance$ </p>
     </footer>
 
-    <script src="./script.js"></script>
+    <script src="script.js"></script>
 
 </body>
 

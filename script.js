@@ -18,10 +18,11 @@ const Modal = {
 const Storage = {
 
     get() {
-        return JSON.parse(localStorage.getItem("dev.finances: transactions") || []);
+        return JSON.parse(localStorage.getItem("dev.finances: transactions"));
     },
-
+    
     set(transactions) {
+        console.log(transactions)
         localStorage.setItem("dev.finances: transactions", JSON.stringify(transactions));
     }
 }
@@ -79,7 +80,7 @@ const Utils = {
 
     formatAmount(value) {
         value = Number(value) * 100;
-        return value;
+        return Math.round(value);
     },
 
     formatCurrency(value) {
@@ -196,7 +197,6 @@ const Form = {
 
     submit(event) {
         event.preventDefault();
-
         try {
 
             this.validateField();
@@ -208,13 +208,7 @@ const Form = {
         } catch (error) {
             alert(error.message);
         }
-
-
-
-    }
-
-
-
+    },
 }
 
 
