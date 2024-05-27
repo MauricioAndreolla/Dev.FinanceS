@@ -11,7 +11,7 @@ A ideia é criar um App em que utiliza o armazenamento do navegador para cadastr
 
 ## 🔨 Tecnologias Utilizadas
 
- **HTML | Javascript | CSS | **
+ **HTML | Javascript | CSS |**
 
 ## 📍 Rodando a aplicação localmente
 
