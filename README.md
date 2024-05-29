@@ -6,7 +6,7 @@
 
 A ideia é criar um App em que utiliza o armazenamento do navegador para cadastrar entradas e saidas de valores na conta bancária.
 
-(![Interface Inicial do App](https://github.com/MauricioAndreolla/Dev.FinanceS/assets/44854911/76ef111c-47ec-42f0-afcd-a6b4ecde1ebd)
+![Interface Inicial do App](https://github.com/MauricioAndreolla/Dev.FinanceS/assets/44854911/76ef111c-47ec-42f0-afcd-a6b4ecde1ebd)
 
 
 ## 🔨 Tecnologias Utilizadas
