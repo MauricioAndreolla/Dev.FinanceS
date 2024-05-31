@@ -6,33 +6,28 @@
 
 A ideia é criar um App em que utiliza o armazenamento do navegador para cadastrar entradas e saidas de valores na conta bancária.
 
-![Interface Inicial do App](https://github.com/MauricioAndreolla/Dev.FinanceS/assets/44854911/76ef111c-47ec-42f0-afcd-a6b4ecde1ebd)
-
+![Interface Inicial](https://github.com/MauricioAndreolla/Dev.FinanceS/assets/44854911/b46ffb21-fc21-4fdf-865b-c0b793c2d18c)
 
 ## 🔨 Tecnologias Utilizadas
 
- **HTML | Javascript | CSS**
+ **ReactJS | HTML | Javascript | CSS**
 
 ## 📍 Rodando a aplicação localmente
 
 - Somente baixar os arquivos ou cloná-los.
 
-**Download Manual dos arquivos**
+**Instalar dependências**
 ```
-https://github.com/MauricioAndreolla/Dev.FinanceS.git
+npm install
 ```
 
-**Usando GithubCli**
+**Executando a calculadora**
 ```
-gh repo clone MauricioAndreolla/Dev.FinanceS
+npm run dev
 ```
-- Utilizar alguma extensão no vscode para iniciar o HTML é a forma mais simples.
-- Ou algum outro boilerplate como Vite.
-
-  https://vitejs.dev/
 
 ### Link de acesso ao aplicativo
 
-https://mauricioandreolla.github.io/Dev.FinanceS/
+https://calculadora-react-js-one.vercel.app/
 
 
