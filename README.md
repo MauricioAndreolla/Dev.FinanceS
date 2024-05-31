@@ -9,8 +9,9 @@ A ideia é criar um App em que utiliza o armazenamento do navegador para cadastr
 ![Interface Inicial](https://github.com/MauricioAndreolla/Dev.FinanceS/assets/44854911/b46ffb21-fc21-4fdf-865b-c0b793c2d18c)
 
 ## 🔨 Tecnologias Utilizadas
-
- **ReactJS | HTML | Javascript | CSS**
+<div align="center">
+<strong>ReactJS | HTML | Javascript | CSS</strong>
+</div>
 
 ## 📍 Rodando a aplicação localmente
 
